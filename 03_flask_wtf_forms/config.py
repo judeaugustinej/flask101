@@ -1,5 +1,5 @@
 WTF_CSRF_ENABLED = True
-WTF_CSRF_SECRET_KEY = 'myaeasefaeadwe'
+SECRET_KEY = 'myaeasefaeadwe'
 
 OPENID_PROVIDERS = [
     {'name': 'Google', 'url': 'https://www.google.com/accounts/o8/id'},
