@@ -1,0 +1,11 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>The list of users</h1>
+    {% for user in users %}
+    <p>
+      name: {{ user.nickname }} email: <b>{{ user.body }}</b>
+    </p>
+    {% endfor %}
+{% endblock %}
