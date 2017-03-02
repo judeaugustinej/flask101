@@ -1,0 +1,10 @@
+flask-login http://flask-login.readthedocs.io/en/latest/
+flask-script http://flask-script.readthedocs.io/en/latest/
+flask-migrate http://flask-migrate.readthedocs.io/en/latest/
+flask-sqlalchemy http://flask.pocoo.org/docs/0.12/patterns/sqlalchemy/
+
+
+How do all these extension work, and how to write one?
+A super base for Fullstack flask app
+a super base for rest-api in flask
+flask best practices.
